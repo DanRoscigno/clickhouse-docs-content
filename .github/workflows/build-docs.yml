@@ -39,12 +39,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           exclude_assets: '.github'
           cname: docs-content.clickhouse.tech
-          publish_branch: gh-pages-test
+          publish_branch: gh-pages
           publish_dir: ./build
           destination_dir: docs
-        # uses: crazy-max/ghaction-github-pages@v2
-        # with:
-        #   target_branch: gh-pages-test
-        #   build_dir: build
-        # env:
-        #   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

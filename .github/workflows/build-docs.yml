@@ -30,7 +30,7 @@ jobs:
       - name: Build Docusaurus website
         run: |
           npm install -g yarn
-          yarn install
+          yarn install --frozen-lockfile
           yarn run build
       - name: Deploy to GitHub Pages
         if: success()
@@ -40,7 +40,8 @@ jobs:
           exclude_assets: '.github'
           cname: docs-content.clickhouse.tech
           publish_branch: gh-pages-test
-          publish_dir: ./docs
+          publish_dir: ./build
+          destination_dir: docs
         # uses: crazy-max/ghaction-github-pages@v2
         # with:
         #   target_branch: gh-pages-test

@@ -29,9 +29,8 @@ jobs:
       # Install and build Docusaurus website
       - name: Build Docusaurus website
         run: |
-          npm install -g yarn
-          yarn install --frozen-lockfile
-          yarn run build
+          npm install
+          npm run build
       - name: Deploy to GitHub Pages
         if: success()
         uses: peaceiris/actions-gh-pages@v3

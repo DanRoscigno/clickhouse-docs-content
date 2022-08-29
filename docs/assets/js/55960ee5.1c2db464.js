@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkclickhouse=self.webpackChunkclickhouse||[]).push([[74121],{88070:function(e){e.exports=JSON.parse('[{"label":"create user","permalink":"/docs/tags/create-user","count":2},{"label":"add user","permalink":"/docs/tags/add-user","count":2}]')}}]);

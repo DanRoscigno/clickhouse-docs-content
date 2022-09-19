@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkclickhouse=self.webpackChunkclickhouse||[]).push([[36725],{82814:function(e){e.exports=JSON.parse('{"title":"About Us","slug":"/en/about-us","permalink":"/docs/en/about-us","navigation":{"previous":{"title":"2017","permalink":"/docs/en/whats-new/changelog/2017"},"next":{"title":"Cloud Service","permalink":"/docs/en/about-us/cloud"}}}')}}]);

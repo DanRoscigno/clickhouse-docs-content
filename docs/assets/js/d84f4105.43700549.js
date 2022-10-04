@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkclickhouse=self.webpackChunkclickhouse||[]).push([[62264],{1026:function(e){e.exports=JSON.parse('{"title":"FAQ","slug":"/en/faq","permalink":"/docs/en/faq","navigation":{"previous":{"title":"Compression","permalink":"/docs/en/native-protocol/compression"},"next":{"title":"Troubleshooting","permalink":"/docs/en/faq/en/faq/troubleshooting"}}}')}}]);

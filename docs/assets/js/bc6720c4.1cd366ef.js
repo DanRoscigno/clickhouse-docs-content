@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclickhouse=self.webpackChunkclickhouse||[]).push([[23156],{21523:function(e){e.exports=JSON.parse('{"title":"Changelog","slug":"/category/changelog","permalink":"/docs/category/changelog","navigation":{"previous":{"title":"What\'s New","permalink":"/docs/en/whats-new"},"next":{"title":"Cloud","permalink":"/docs/en/whats-new/cloud"}}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclickhouse=self.webpackChunkclickhouse||[]).push([[6585],{71815:function(e){e.exports=JSON.parse('{"title":"SQL Reference","slug":"/en/sql-reference","permalink":"/docs/en/sql-reference","navigation":{"previous":{"title":"SQL","permalink":"/docs/en/analyze"},"next":{"title":"Statements","permalink":"/docs/en/sql-reference/statements/"}}}')}}]);
